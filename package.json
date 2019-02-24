@@ -1,6 +1,6 @@
 {
-  "name": "angulariktemp",
-  "version": "0.0.0",
+  "name": "hrangulartemplate",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -47,5 +47,6 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "author": "Volkan Ağbulak",
 }
